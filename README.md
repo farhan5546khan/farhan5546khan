@@ -50,8 +50,8 @@
 
 ## 🤝 Connect With Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white" />https://www.instagram.com/me.__farhan/</a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />www.linkedin.com/in/farhan-khan-aba829357</a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
