@@ -34,12 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
@@ -56,8 +50,8 @@
 
 ## 🤝 Connect With Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white" />https://www.instagram.com/me.__farhan/</a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />www.linkedin.com/in/farhan-khan-aba829357</a>
 </p>
 
 ---
